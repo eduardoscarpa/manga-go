@@ -1,4 +1,4 @@
-Run ganache and setup Metamask on your browser.
+Run Ganache and setup Metamask on your browser.
 
 Inmediately after:
 ```shell
