@@ -1,5 +1,6 @@
-Run ganache and setup metamask on your browser
+Run ganache and setup Metamask on your browser.
 
+Inmediately after:
 ```shell
 truffle compile
 ```
