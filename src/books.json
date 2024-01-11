@@ -1,0 +1,192 @@
+[
+  {
+    "id": 0,
+    "title": "La saga dei Saiyan. Dragon Ball full color (Vol. 1)",
+    "picture": "https://m.media-amazon.com/images/I/81mpuTJooUL._SY342_.jpg",
+    "isbn": "978-8822612243",
+    "numpag": "256",
+    "writer": "Akira Toriyama",
+    "edition": "2019"
+    
+  },
+  {
+    "id": 1,
+    "title": "Naruto. Il mito (Vol. 2)",
+    "picture": "https://m.media-amazon.com/images/I/71lSleeJMrL._SY342_.jpg",
+    "isbn": "978-8828745389",
+    "numpag": "208",
+    "writer": "Masashi Kishimoto",
+    "edition": "2023"
+  },
+  {
+    "id": 2,
+    "title": "One piece (Vol. 1)",
+    "picture": "https://m.media-amazon.com/images/I/81hipaenXVL._SY342_.jpg",
+    "isbn": "978-8864201795",
+    "numpag": "208",
+    "writer": "Eiichiro Oda",
+    "edition": "2001"
+  },
+  {
+    "id": 3,
+    "title": "Chainsaw Man. Spoiler (Vol. 13)",
+    "picture": "https://m.media-amazon.com/images/I/71l-hPjdVyL._SY342_.jpg",
+    "isbn": "978-8828754688",
+    "numpag": "184",
+    "writer": "Tatsuki Fujimoto",
+    "edition": "2023"
+  },
+  {
+    "id": 4,
+    "title": "Chainsaw Man (Vol. 15)",
+    "picture": "https://m.media-amazon.com/images/I/71+G34-RhFL._SY342_.jpg",
+    "isbn": "978-8828777984",
+    "numpag": "200",
+    "writer": "Tatsuki Fujimoto",
+    "edition": "2024"
+  },
+  {
+    "id": 5,
+    "title": "Dr. Stone (Vol. 26)",
+    "picture": "https://m.media-amazon.com/images/I/81STJJP9upL._SY342_.jpg",
+    "isbn": "978-8822644404",
+    "numpag": "208",
+    "writer": "Riichiro Inagaki",
+    "edition": "2024"
+  },
+  {
+    "id": 6,
+    "title": "Planetes. Complete edition",
+    "picture": "https://m.media-amazon.com/images/I/61ne4Q6+gjL._SY342_.jpg",
+    "isbn": "978-8891294418",
+    "numpag": "1040",
+    "writer": "Makoto Yukimura",
+    "edition": "2020"
+  },
+  {
+    "id": 7,
+    "title": "20th century boys. Ultimate deluxe edition (Vol. 5)",
+    "picture": "https://m.media-amazon.com/images/I/71B3BUL-YfL._SY342_.jpg",
+    "isbn": "978-8828766056",
+    "numpag": "418",
+    "writer": "Naoki Urasawa",
+    "edition": "2022"
+  },
+  {
+    "id": 8,
+    "title": "Akira (Vol. 1)",
+    "picture": "https://m.media-amazon.com/images/I/71akB7T16rL._SY342_.jpg",
+    "isbn": "978-8891291493",
+    "numpag": "362",
+    "writer": "Katsuhiro Ootomo",
+    "edition": "2021"
+  },
+  {
+    "id": 9,
+    "title": "20th century boys. Ultimate deluxe edition (Vol. 1)",
+    "picture": "https://m.media-amazon.com/images/I/71KcEh44pmL._SY342_.jpg",
+    "isbn": "978-8828760863",
+    "numpag": "418",
+    "writer": "Naoki Urasawa",
+    "edition": "2021"
+  },
+  {
+    "id": 10,
+    "title": "20th century boys. Ultimate deluxe edition (Vol. 2)",
+    "picture": "https://m.media-amazon.com/images/I/71c-2EQWdML._SY342_.jpg",
+    "isbn": "978-8828764762",
+    "numpag": "418",
+    "writer": "Naoki Urasawa",
+    "edition": "2022"
+  },
+  {
+    "id": 11,
+    "title": "Tokyo revengers (Vol. 30)",
+    "picture": "https://m.media-amazon.com/images/I/71aqFA1traL._SY342_.jpg",
+    "isbn": "978-8834922392",
+    "numpag": "192",
+    "writer": "Ken Wakui",
+    "edition": "2023"
+  },
+  {
+    "id": 12,
+    "title": "20th century boys. Ultimate deluxe edition (Vol. 3)",
+    "picture": "https://m.media-amazon.com/images/I/61Hr6N6RsJL._SY342_.jpg",
+    "isbn": "978-8828765486",
+    "numpag": "426",
+    "writer": "Naoki Urasawa",
+    "edition": "2022"
+  },
+  {
+    "id": 13,
+    "title": "Tokyo revengers. Una lettera da Baji (Vol. 3)",
+    "picture": "https://m.media-amazon.com/images/I/71oBk7KsCML._SY342_.jpg",
+    "isbn": "978-8834913642",
+    "numpag": "192",
+    "writer": " Ken Wakui, Yukinori Natsukawaguchi",
+    "edition": "2023"
+  },
+  {
+    "id": 14,
+    "title": "Tokyo revengers (Vol. 28)",
+    "picture": "https://m.media-amazon.com/images/I/814aszd+zxL._SY342_.jpg",
+    "isbn": "978-8834920992",
+    "numpag": "192",
+    "writer": "Ken Wakui",
+    "edition": "2023"
+  },
+  {
+    "id": 15,
+    "title": "Chainsaw Man. Voglio vedere i pinguini! (Vol. 14)",
+    "picture": "https://m.media-amazon.com/images/I/61b10k1pErL._SY342_.jpg",
+    "isbn": "978-8828771456",
+    "numpag": "184",
+    "writer": "Tatsuki Fujimoto",
+    "edition": "2023"
+  },
+  {
+    "id": 16,
+    "title": "La saga dei Saiyan. Dragon Ball full color (Vol. 2)",
+    "picture": "https://m.media-amazon.com/images/I/81kNloKv6xL._SY342_.jpg",
+    "isbn": "978-8822612250",
+    "numpag": "241",
+    "writer": "Akira Toriyama",
+    "edition": "2019"
+  },
+  {
+    "id": 17,
+    "title": "La saga dei Saiyan. Dragon Ball full color (Vol. 3)",
+    "picture": "https://m.media-amazon.com/images/I/81LmrQwEsIL._SY342_.jpg",
+    "isbn": "978-8822612267",
+    "numpag": "241",
+    "writer": "Akira Toriyama",
+    "edition": "2019"
+  },
+  {
+    "id": 18,
+    "title": "Attack on Titan Vol. 1 (English Edition)",
+    "picture": "https://m.media-amazon.com/images/I/91F-m3Zm1xL._SY342_.jpg",
+    "isbn": "978-1612620244",
+    "numpag": "208",
+    "writer": "Steve Wands, Hajime Isayama",
+    "edition": "2012"
+  },
+  {
+    "id": 19,
+    "title": "Tomie",
+    "picture": "https://m.media-amazon.com/images/I/81l3VB7A+OL._SY342_.jpg",
+    "isbn": "978-8832750430",
+    "numpag": "740",
+    "writer": "Junji Itō",
+    "edition": "2017"
+  },
+  {
+    "id": 20,
+    "title": "Naruto. Il mito (Vol. 6)",
+    "picture": "https://m.media-amazon.com/images/I/717ByM4XyqL._SY342_.jpg",
+    "isbn": "978-8828717485",
+    "numpag": "192",
+    "writer": "Masashi Kishimoto",
+    "edition": "2022"
+  }
+]

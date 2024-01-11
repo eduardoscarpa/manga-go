@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>MangaGo</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+  
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+
+  </head>
+  <body style="background-color: rgb(146, 50, 50);">
+    
+    <div class="container">
+      <div class="row">
+      <div class="">
+     
+          <div class="col-xs-12 col-sm-8 col-sm-push-2">
+            <h1 class="text-center" style="color: black; font-size: 30px;">
+              <img src="images/logo22.png" alt="Logo">
+            </h1>
+          </div>
+         
+      
+          <ul class="nav justify-content-end">
+            <li class="nav-item">
+              <a class="nav-link active" style="color: rgb(0, 0, 0); font-size: 20px;" aria-current="page" href="index.html">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" style="color: rgb(0, 0, 0); font-size: 20px;" href="lista.html">Acquisti</a>
+            </li>
+
+
+           </ul>
+          <br/>
+          <br/>
+        </div>
+         <br/>
+      </div>
+
+      <div id="booksRow" class="row">
+        <!-- BOOKS LOAD HERE -->
+      </div>
+    </div>
+     <br/>
+
+    <div id="bookTemplate" style="display: none;">
+      <div class="col-sm-6 col-md-4 col-lg-3">
+        <div class="panel panel-default panel-book">
+          <div class="panel-heading">
+            <h3 class="panel-title">Scrappy</h3>
+          </div>
+          <div class="panel-body" style="font-size: 15px;">
+            <img alt="140x140" data-src="holder.js/140x140" class="img-rounded img-center" style="width: 100%;" data-holder-rendered="true">
+            <br/><br/>
+            <strong>ISBN</strong>: <span class="book-isbn"></span><br/>
+            <strong>Pagine</strong>: <span class="book-numpag"></span><br/>
+            <strong>Autore</strong>: <span class="book-writer"></span><br/>
+            <strong>Anno</strong>: <span class="book-edition"></span><br/><br/>
+            <button class="btn btn-outline-dark btn-buy" style="font-size: 15px;" type="button" data-id="0">Buy</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/web3.min.js"></script>
+    <script src="js/truffle-contract.js"></script>
+    <script src="js/app.js"></script>
+  </body>
+</html>
