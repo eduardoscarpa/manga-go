@@ -1,13 +1,17 @@
 pragma solidity ^0.5.0;
 
 contract Book {
-	address[20] public books;
+	// E' un array di indirizzi Etherium
+	address[21] public books; 
 
 
 	// Buy a book
 	function buyBook(uint bookId) public returns (uint) {
-		require(bookId >= 0 && bookId <= 19);
+		
+		// Controlla l'ID del libro se va da 0 a 20
+		require(bookId >= 0 && bookId <= 20);
 
+		// Assegna l'indirizzo dell'account che sta eseguendo la transazione all'elemento dell'array "books" all'indice specificato da bookId
 		books[bookId] = msg.sender;
 
 		return bookId;
@@ -15,7 +19,8 @@ contract Book {
 
 
 	// Retrieving the books
-	function getBooks() public view returns (address[20] memory) {
+	// Ritorna tutti gli indirizzi Etherium
+	function getBooks() public view returns (address[21] memory) {
   		return books;
 	}
 }
