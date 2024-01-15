@@ -1,3 +1,5 @@
+# manga-go
+
 Run Ganache and setup Metamask on your browser.
 
 Inmediately after:
